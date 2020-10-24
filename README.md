@@ -1,5 +1,4 @@
-<img src="https://github.com/abhilondhe/abhilondhe/blob/main/Abhishek%20Londhe%20Intro.png">
-
+<img src="https://github.com/abhilondhe/abhilondhe/blob/main/Abhishek%20Londhe%20Intro.png" width="1000" height="300">
 - 🔭 I’m currently working on ... React, Redux, Nodejs
 - 🌱 I’m currently learning ... Full Stack Web Developement
 - 👯 I’m looking to collaborate on ... Web Developement
