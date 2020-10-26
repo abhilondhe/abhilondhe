@@ -1,6 +1,8 @@
 Hi :wave:
 </br>
+</br>
 You can contact me on:
+</br>
 </br>
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/AbhiLondhe1992)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/abhishek-londhe/)
@@ -8,7 +10,6 @@ You can contact me on:
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/apollonious_lazarious/)
 <a href="mailto:abhishek.londhe11@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 </br>
-
 </br>
 - 🔭 I’m currently working on: React, Redux, Nodejs
 - 🌱 I’m currently learning: Full Stack Web Developement
